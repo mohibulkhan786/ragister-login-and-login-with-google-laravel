@@ -17,17 +17,12 @@ In this tutorial, we will implement a complete authentication system in Laravel,
 
 ````
 composer update
-
 ````
-
 ````
 php artisan migrate
-
 ````
-
 ````
 php artisan serve
-
 ````
 
 
