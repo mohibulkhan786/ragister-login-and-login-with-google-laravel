@@ -5,11 +5,11 @@
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects.
 
 In this tutorial, we will implement a complete authentication system in Laravel, including:
-✅ User Registration with name, email, and password
-✅ User Login with email and password authentication
-✅ Google OAuth Login for easy one-click sign-in
-✅ Session Handling & Middleware for authentication security
-✅ User Dashboard & Logout Functionality
+- ✅ User Registration with name, email, and password
+- ✅ User Login with email and password authentication
+- ✅ Google OAuth Login for easy one-click sign-in
+- ✅ Session Handling & Middleware for authentication security
+- ✅ User Dashboard & Logout Functionality
 
 This guide covers Laravel Breeze, Laravel Jetstream, and Socialite for smooth authentication. Follow step-by-step to integrate Google login using OAuth 2.0 and enhance security with CSRF protection and validation.
 
